@@ -1,0 +1,18 @@
+body {
+    background-color: #222;
+    color: #fff;
+}
+
+.btn-icon {
+    padding: 0.5em;
+    border-radius: 50%;
+    width: 3em;
+    height: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card:hover {
+    filter: brightness(80%);
+}
