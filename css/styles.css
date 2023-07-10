@@ -16,3 +16,8 @@ body {
 .card:hover {
     filter: brightness(80%);
 }
+
+#profile-image {
+    width: 27%;
+    height: 27%;
+}
