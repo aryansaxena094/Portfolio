@@ -2,7 +2,6 @@ body {
     background-color: #222;
     color: #fff;
 }
-
 .btn-icon {
     padding: 0.5em;
     border-radius: 50%;
@@ -12,11 +11,9 @@ body {
     align-items: center;
     justify-content: center;
 }
-
 .card:hover {
     filter: brightness(80%);
 }
-
 #profile-image {
     width: 27%;
     height: 27%;
